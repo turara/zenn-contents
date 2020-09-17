@@ -1,5 +1,5 @@
 ---
-title: "Go言語でGOPATHの外に作ったプロジェクトでサブパッケージをインポートする"
+title: "【Go言語】GOPATHの外に作ったプロジェクトでサブパッケージをインポートする"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Go,初心者]
