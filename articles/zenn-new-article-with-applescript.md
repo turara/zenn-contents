@@ -1,5 +1,5 @@
 ---
-title: "Zenn CLIの執筆準備をAppleScriptで自動化する"
+title: "Zennの執筆準備をAppleScriptで自動化する"
 emoji: "⚡️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Zenn,Mac,AppleScript]
