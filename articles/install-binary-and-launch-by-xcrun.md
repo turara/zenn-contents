@@ -9,9 +9,9 @@ published: true
 # Conclusion
 
 ```shell
-// インストール
+# インストール
 xcrun simctl install your-device-udid your-binary-path
-// 起動
+# 起動
 xcrun simctl launch your-device-udid your-app-bundleid
 ```
 
@@ -75,9 +75,9 @@ xcrun xctrace list devices
 プロジェクトのルートから実行する場合は先程のバイナリのパスに`ios`をつけて……
 
 ```shell
-// インストール
+# インストール
 xcrun simctl install your-device-udid ios/build/YourProjectName/Build/Products/Debug-iphonesimulator/YourAppName.app
-// 起動
+# 起動
 xcrun simctl launch your-device-udid your-app-bundleid
 ```
 
